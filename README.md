@@ -11,7 +11,7 @@ I am a passionate BCA student focused on turning raw data into meaningful insigh
 **Languages & Databases**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
+![C](https://icons8.com/icon/40670/c-programming)
 ![C++](https://img.shields.io/badge/C%2B%2B-blue?logo=c%2B%2B)
 
 **Data Science & Visualization**
