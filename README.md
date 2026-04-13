@@ -9,11 +9,10 @@ I am a passionate BCA student focused on turning raw data into meaningful insigh
 ## 🛠️ My Tech Stack 🧠
 
 **Languages & Databases**
+ 🅲
 ![C++](https://img.shields.io/badge/C%2B%2B-blue?logo=c%2B%2B)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](<img src="https://img.icons8.com/color/35/000000/c-programming.png" width="35" height="35" alt="C Programming Logo" />)
-
 
 **Data Science** 
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
