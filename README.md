@@ -42,9 +42,9 @@ I am a passionate BCA student focused on turning raw data into meaningful insigh
 ## 💻 Featured Projects
 
 ### [Project 1: Smart Expense Tracker](https://github.com)
-**Description:** A Python-based tool to track daily spending with automated CSV data storage.
-**Status:** 🚧 *Under Development (Coming Soon)*
-**Tech:** Python, CSV, File Handling.
+- **Description:** A Python-based tool to track daily spending with automated CSV data storage.
+- **Status:** 🚧 *Under Development (Coming Soon)*
+- **Tech:** Python, CSV, File Handling.
 
 ---
 
