@@ -38,6 +38,15 @@ I am a passionate BCA student focused on turning raw data into meaningful insigh
 
 ---
 
+## 🧪 Learning Labs & Logic Practice
+
+- **[Pizza Configurator Logic](https://github.com/Sarvesh-Krishna/pizza-configurator-logic)**
+- **Description:** A Python-based interactive script demonstrating conditional flow, string formatting, and user input handling.
+- **Tech:** Python (If-Else Logic)
+- **Key Skill:** Demonstrated logical decision-making and clean user-interaction code.
+
+---
+
 ## 💻 Featured Projects
 
 ### [Project 1: Smart Expense Tracker](https://github.com)
