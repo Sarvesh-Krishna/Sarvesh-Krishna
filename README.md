@@ -1,16 +1,58 @@
-## Hi there 👋
+# Hi, I'm Sarvesh Krishna! 👋
 
-<!--
-**Sarvesh-Krishna/Sarvesh-Krishna** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🎓 BCA Student | Aspiring Data Analyst & Machine Learning Engineer
 
-Here are some ideas to get you started:
+I am a passionate BCA student focused on turning raw data into meaningful insights. I am currently building my foundation in programming and data science, with a long-term goal of becoming a Lead Data Scientist.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ My Tech Stack 🧠
+
+**Languages & Databases**
+![Python](https://shields.io)
+![SQL](https://shields.io)
+![C](https://shields.io)
+![C++](https://shields.io)
+
+**Data Science & Visualization**
+![Pandas](https://shields.io)
+![NumPy](https://shields.io)
+![PowerBI](https://shields.io)
+![Tableau](https://shields.io)
+
+**Tools**
+![Git](https://shields.io)
+![GitHub](https://shields.io)
+![VSCode](https://shields.io)
+![Kaggle](https://shields.io)
+
+---
+
+## 📈 What I'm Working On 🚀
+
+- 🔭 **Year 1:** Mastering Python logic and Data Structures (DSA).
+- 🌱 **Currently Learning:** SQL Deep Dives and Exploratory Data Analysis (EDA).
+- 🎯 **Goal:** Building 3 end-to-end data projects by the end of my 2nd year.
+- 🌍 **Languages:** English, Hindi, and Python!
+- ⚡ **Fun fact:** I love finding patterns in everyday data.
+
+---
+
+## 💻 Featured Projects
+
+### [Project 1: Smart Expense Tracker](https://github.com)
+**Description:** A Python-based tool to track daily spending with automated CSV data storage.
+**Status:** 🚧 *Under Development (Coming Soon)*
+**Tech:** Python, CSV, File Handling.
+
+---
+
+## 📊 My GitHub Stats
+![Sarvesh's GitHub Stats](https://vercel.app)
+
+---
+
+## 📬 Get in Touch
+- **LinkedIn:** [linkedin.com/in/sarveshkrishna](https://www.linkedin.com/in/sarveshkrishna)
+- **Email:** savesh.krishna2510@gmail.com
+- **Kaggle:** [Coming Soon](#)
