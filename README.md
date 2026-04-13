@@ -11,20 +11,21 @@ I am a passionate BCA student focused on turning raw data into meaningful insigh
 **Languages & Databases**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://shields.io)
-![C++](https://shields.io)
+![C](https://img.shields.io/badge/C-A8B9CC?logo=C&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-blue?logo=c%2B%2B)
 
 **Data Science & Visualization**
-![Pandas](https://shields.io)
-![NumPy](https://shields.io)
-![PowerBI](https://shields.io)
-![Tableau](https://shields.io)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![PowerBI]
+![Tableau]
 
 **Tools**
-![Git](https://shields.io)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
 ![GitHub](https://shields.io)
-![VSCode](https://shields.io)
-![Kaggle](https://shields.io)
+![VSCode](https://shields.io/badge/-Vscode-93f6ef?logo=vscodium)
+![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=white)
+![Beekeeper](https://avatars.githubusercontent.com/u/53234021?s=200&v=4)
 
 ---
 
