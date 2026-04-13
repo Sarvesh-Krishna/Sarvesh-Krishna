@@ -11,21 +11,20 @@ I am a passionate BCA student focused on turning raw data into meaningful insigh
 **Languages & Databases**
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
-![C](https://img.icons8.com/?size=100&id=40670&format=png&color=000000)
 ![C++](https://img.shields.io/badge/C%2B%2B-blue?logo=c%2B%2B)
 
-**Data Science & Visualization**
+**Data Science** 
 ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![PowerBI]
-![Tableau]
+
+**Visualization**
+PowerBI
+Tableau
 
 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
-![GitHub](https://shields.io)
 ![VSCode](https://shields.io/badge/-Vscode-93f6ef?logo=vscodium)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=white)
-![Beekeeper](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6BFbGmlBN16U03mXQ83SUHA_ZkMuhiNbveA&s)
 
 ---
 
