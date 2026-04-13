@@ -25,7 +25,7 @@ I am a passionate BCA student focused on turning raw data into meaningful insigh
 ![GitHub](https://shields.io)
 ![VSCode](https://shields.io/badge/-Vscode-93f6ef?logo=vscodium)
 ![Kaggle](https://img.shields.io/badge/Kaggle-035a7d?style=flat&logo=kaggle&logoColor=white)
-![Beekeeper](https://avatars.githubusercontent.com/u/53234021?s=200&v=4)
+![Beekeeper](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6BFbGmlBN16U03mXQ83SUHA_ZkMuhiNbveA&s)
 
 ---
 
