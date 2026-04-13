@@ -1,4 +1,4 @@
-# Hi, I'm Sarvesh Krishna! 👋
+# Hi there, I'm Sarvesh Krishna! 👋
 
 ### 🎓 BCA Student | Aspiring Data Analyst & Machine Learning Engineer
 
