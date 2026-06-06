@@ -69,4 +69,4 @@ I am a passionate BCA student focused on turning raw data into meaningful insigh
 ## 📬 Get in Touch
 - **LinkedIn:** [linkedin.com/in/sarveshkrishna](https://www.linkedin.com/in/sarveshkrishna)
 - **Email:** savesh.krishna2510@gmail.com
-- **Kaggle:** [Coming Soon](#)
+- **Kaggle:** [kaggle.com/sarveshkrishna25](https://www.kaggle.com/sarveshkrishna25)
