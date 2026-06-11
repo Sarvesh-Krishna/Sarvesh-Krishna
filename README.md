@@ -38,11 +38,11 @@ I am a passionate BCA student focused on turning raw data into meaningful insigh
 
 * Google AI Essentials Specialization | *Google via Coursera* (June 2026)
   * Mastered foundational Generative AI principles, structured prompt engineering (including few-shot prompting), and human-in-the-loop ethical AI practices.
-  * 🔗 [Verify Credential on Coursera](https://coursera.org/verify/specialization/78H8AFI1V5IT) | 🏆 [View Credly Badge](https://www.credly.com/go/fsOLVZuH)
+  * 🔗 [Verify Credential on Coursera](https://coursera.org/verify/specialization/78H8AFI1V5IT)
 
 * Google Prompting Essentials Specialization | *Google via Coursera* (June 2026)
   * Mastered multimodal prompting, advanced prompt chaining (tree-of-thought), AI agent design, and AI-accelerated data analysis workflows.
-  * 🔗 [Verify Credential on Coursera](https://coursera.org/verify/specialization/EIB1DP3HPPAG) | 🏆 [View Credly Badge](https://www.credly.com/go/XxvPkMZe)
+  * 🔗 [Verify Credential on Coursera](https://coursera.org/verify/specialization/EIB1DP3HPPAG)
 
 ---
 
